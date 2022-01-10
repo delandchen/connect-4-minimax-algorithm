@@ -195,7 +195,7 @@ def play(game, x_player, o_player, print_game=True):
         else:
             column = x_player.get_move(game)
 
-        if game.make_move(column, letter):
+        if game.make_move(column, letter) is not False:
             # Prints visuals to console
             if print_game:
                 print(letter + ' makes a move to column {}'.format(column+1))
