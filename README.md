@@ -2,6 +2,6 @@
 Unbeatable connect-4 ai using a minimax algorithm
 
 To Run:
-Have both main.py & player.py in the same directory /n
+Have both main.py & player.py in the same directory <br>
 Run main.py 
 Select Difficulty (How deep the algo searches/depth)
