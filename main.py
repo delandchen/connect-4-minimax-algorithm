@@ -3,7 +3,7 @@ from player import HumanPlayer, ComputerPlayer
 
 
 class ConnectFour():
-    # KEEP IN MIND: instead of using arrays within arrays (ex: board[row][column]) to represent
+    # KEEP IN MIND: instead of using matrices (ex: board[row][column]) to represent
     # and manipulate board squares, this game uses index math instead (ex: board[index*i])
     def __init__(self):
         self.board = self.make_board()
