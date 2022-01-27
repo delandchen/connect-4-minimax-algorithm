@@ -1,6 +1,5 @@
 # connect-4-minimax-algorithm
-Unbeatable connect-4 ai using a minimax algorithm <br>
-Plays on Console <br>
+Unbeatable connect-4 ai using a minimax algorithm: Plays on Console <br>
 
 TWO WAYS TO RUN: <br>
 USING PYTHON3:
