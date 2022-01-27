@@ -9,7 +9,7 @@ ONE:
 - Run main.py
 
 TWO:
-- Download the executable folder
+- Clone/Download the executable folder
 - Run main.exe
 - (Could not create a single executable, pyinstaller causes a false virus detection when using --onefile)
 
