@@ -3,9 +3,10 @@ Unbeatable connect-4 ai using a minimax algorithm <br>
 Plays on Console <br>
 
 To Run: <br>
-- DOWNLOAD play.exe <br>
-- Run play.exe <br>
+- Clone src folder
+- Make sure main.py and player.py are in the same directory
+- Run main.py
 
-Source code is in src folder <br>
+Source code:
 - main.py is the board <br>
 - player.py holds the minimax algorithm <br>
