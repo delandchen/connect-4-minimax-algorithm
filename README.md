@@ -1,5 +1,6 @@
 # connect-4-minimax-algorithm
 Unbeatable connect-4 ai using a minimax algorithm <br>
+Plays on Console <br>
 
 To Run: <br>
 - DOWNLOAD play.exe <br>
