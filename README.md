@@ -3,7 +3,6 @@ Unbeatable connect-4 ai using a minimax algorithm <br>
 Plays on Console <br>
 
 TWO WAYS TO RUN: <br>
-
 ONE:
 - Clone src folder
 - Make sure main.py and player.py are in the same directory
